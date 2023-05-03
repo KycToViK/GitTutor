@@ -1,0 +1,26 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Спрайты","order":1,"path":"folders/Спрайты.yy",},
+    {"name":"Наборы плиток","order":2,"path":"folders/Наборы плиток.yy",},
+    {"name":"Звуки","order":3,"path":"folders/Звуки.yy",},
+    {"name":"Пути","order":4,"path":"folders/Пути.yy",},
+    {"name":"Скрипты","order":5,"path":"folders/Скрипты.yy",},
+    {"name":"Шейдеры","order":6,"path":"folders/Шейдеры.yy",},
+    {"name":"Шрифты","order":7,"path":"folders/Шрифты.yy",},
+    {"name":"Временные шкалы","order":8,"path":"folders/Временные шкалы.yy",},
+    {"name":"Объекты","order":9,"path":"folders/Объекты.yy",},
+    {"name":"Румы","order":10,"path":"folders/Румы.yy",},
+    {"name":"Последовательности","order":11,"path":"folders/Последовательности.yy",},
+    {"name":"Кривые анимации","order":12,"path":"folders/Кривые анимации.yy",},
+    {"name":"Примечания","order":13,"path":"folders/Примечания.yy",},
+    {"name":"Расширения","order":14,"path":"folders/Расширения.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"o_apple","order":1,"path":"objects/o_apple/o_apple.yy",},
+    {"name":"s_snake_length","order":4,"path":"sprites/s_snake_length/s_snake_length.yy",},
+    {"name":"s_apple","order":5,"path":"sprites/s_apple/s_apple.yy",},
+    {"name":"s_snake_down","order":3,"path":"sprites/s_snake_down/s_snake_down.yy",},
+    {"name":"s_snake_right","order":1,"path":"sprites/s_snake_right/s_snake_right.yy",},
+    {"name":"s_snake_left","order":2,"path":"sprites/s_snake_left/s_snake_left.yy",},
+  ],
+}
